@@ -67,20 +67,65 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\asistencIA_CSS.css" />
+    <Content Include="css\css_login.css" />
+    <Content Include="css\css_CuentaR.css" />
+    <Content Include="css\css_cuenta_usuario.css" />
+    <Content Include="css\css_Nosotros.css" />
+    <Content Include="css\css_pag_principal.css" />
+    <Content Include="css\css_Productos.css" />
     <Content Include="images\Fondo_inversiones_pag_1.jpeg" />
     <Content Include="images\logo_asesoria.png" />
+    <Content Include="Pag_correo.aspx" />
+    <Content Include="Pag_cuentaR.aspx" />
+    <Content Include="Pag_cuenta_usuario.aspx" />
+    <Content Include="Pag_nosotros.aspx" />
+    <Content Include="Pag_productos.aspx" />
     <Content Include="Web.config" />
-    <Content Include="WebForm1.aspx" />
+    <Content Include="Pag_principal.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="Pag_correo.aspx.cs">
+      <DependentUpon>Pag_correo.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="Pag_correo.aspx.designer.cs">
+      <DependentUpon>Pag_correo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pag_cuentaR.aspx.cs">
+      <DependentUpon>Pag_cuentaR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pag_cuentaR.aspx.designer.cs">
+      <DependentUpon>Pag_cuentaR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pag_cuenta_usuario.aspx.cs">
+      <DependentUpon>Pag_cuenta_usuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pag_cuenta_usuario.aspx.designer.cs">
+      <DependentUpon>Pag_cuenta_usuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pag_nosotros.aspx.cs">
+      <DependentUpon>Pag_nosotros.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pag_nosotros.aspx.designer.cs">
+      <DependentUpon>Pag_nosotros.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pag_productos.aspx.cs">
+      <DependentUpon>Pag_productos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pag_productos.aspx.designer.cs">
+      <DependentUpon>Pag_productos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pag_principal.aspx.cs">
+      <DependentUpon>Pag_principal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pag_principal.aspx.designer.cs">
+      <DependentUpon>Pag_principal.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

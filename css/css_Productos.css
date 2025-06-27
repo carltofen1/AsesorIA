@@ -1,0 +1,195 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: url("Fondo_inversiones.jpeg") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.navbar {
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 60px;
+}
+
+.logo-titulo {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+    .logo-titulo .azul {
+        color: #7c8bdc;
+    }
+
+.nav-links a {
+    margin-left: 40px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+    .nav-links a:hover {
+        color: #00cc66;
+    }
+
+.contenido {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 80px;
+}
+
+.productos {
+    text-align: center;
+    padding: 60px 20px;
+    margin-top: -100px;
+}
+
+.titulo {
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.subtitulo {
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: #ccc;
+}
+
+.contenedor-cajas {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.caja {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 15px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+}
+
+    .caja:hover {
+        transform: translateY(-10px);
+    }
+
+    .caja img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+
+    .caja h2 {
+        font-size: 20px;
+        margin: 10px 0;
+        color: white;
+    }
+
+    .caja p {
+        font-size: 16px;
+        color: #ddd;
+        margin-bottom: 15px;
+    }
+
+.btn-explorar,
+.btn-invertir {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.btn-explorar {
+    background-color: #1e7d3b;
+    color: white;
+}
+
+    .btn-explorar:hover {
+        background-color: #2ba44d;
+    }
+
+.btn-invertir {
+    background-color: #b82525;
+    color: white;
+}
+
+    .btn-invertir:hover {
+        background-color: #d93838;
+    }
+
+.explicacion-productos {
+    margin-top: 80px;
+    padding: 40px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    margin-left: 200px;
+}
+
+.explicacion-item {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+    .explicacion-item img {
+        width: 400px;
+        height: 250px;
+        object-fit: cover;
+        border-radius: 15px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    }
+
+.texto-explicacion {
+    max-width: 600px;
+}
+
+    .texto-explicacion h3 {
+        font-size: 26px;
+        margin-bottom: 15px;
+        color: #ffffff;
+    }
+
+    .texto-explicacion p {
+        font-size: 16px;
+        color: #dddddd;
+        line-height: 1.6;
+    }
+
+.fila-izquierda {
+    flex-direction: row;
+}
+
+.fila-derecha {
+    flex-direction: row;
+}
+
+.footer {
+    background-color: transparent;
+    text-align: center;
+    padding: 20px;
+    font-size: 13px;
+    color: #cccccc;
+}

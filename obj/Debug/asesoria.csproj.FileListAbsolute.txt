@@ -1,3 +1,5 @@
+C:\Users\patri\Desktop\asesoria\obj\Debug\asesoria.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\asesoria\obj\Debug\asesoria.csproj.CoreCompileInputs.cache
 C:\Users\patri\Desktop\asesoria\bin\asesoria.dll.config
 C:\Users\patri\Desktop\asesoria\bin\asesoria.dll
 C:\Users\patri\Desktop\asesoria\bin\asesoria.pdb
@@ -52,8 +54,6 @@ C:\Users\patri\Desktop\asesoria\bin\roslyn\VBCSCompiler.exe
 C:\Users\patri\Desktop\asesoria\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\patri\Desktop\asesoria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\patri\Desktop\asesoria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\patri\Desktop\asesoria\obj\Debug\asesoria.csproj.AssemblyReference.cache
-C:\Users\patri\Desktop\asesoria\obj\Debug\asesoria.csproj.CoreCompileInputs.cache
 C:\Users\patri\Desktop\asesoria\obj\Debug\asesoria.csproj.Up2Date
 C:\Users\patri\Desktop\asesoria\obj\Debug\asesoria.dll
 C:\Users\patri\Desktop\asesoria\obj\Debug\asesoria.pdb

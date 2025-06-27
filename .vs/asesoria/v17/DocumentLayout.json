@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\patri\\Desktop\\asesoria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|C:\\Users\\patri\\Desktop\\asesoria\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\css\\css_cuentar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:css\\css_cuentar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|C:\\Users\\patri\\Desktop\\asesoria\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_cuentar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_cuentar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|C:\\Users\\patri\\Desktop\\asesoria\\css\\asistencia_css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:css\\asistencia_css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_cuentar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_cuentar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\css\\css_cuenta_usuario.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:css\\css_cuenta_usuario.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_cuenta_usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_cuenta_usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_cuenta_usuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_cuenta_usuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_principal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\css\\css_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:css\\css_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_correo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_correo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_correo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_correo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|c:\\users\\patri\\desktop\\asesoria\\pag_cuenta_usuario.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63CDA2B9-FC52-4D5D-8C9A-120635C70835}|asesoria.csproj|solutionrelative:pag_cuenta_usuario.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-06T23:21:24.982Z",
+              "DocumentIndex": 1,
+              "Title": "css_CuentaR.css",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\css\\css_CuentaR.css",
+              "RelativeDocumentMoniker": "css\\css_CuentaR.css",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\css\\css_CuentaR.css",
+              "RelativeToolTip": "css\\css_CuentaR.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-27T22:02:43.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebForm1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\WebForm1.aspx.cs",
-              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\WebForm1.aspx.cs",
-              "RelativeToolTip": "WebForm1.aspx.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T23:14:13.658Z",
+              "DocumentIndex": 4,
+              "Title": "css_cuenta_usuario.css",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\css\\css_cuenta_usuario.css",
+              "RelativeDocumentMoniker": "css\\css_cuenta_usuario.css",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\css\\css_cuenta_usuario.css",
+              "RelativeToolTip": "css\\css_cuenta_usuario.css",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-27T22:00:52.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "asistencIA_CSS.css",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\css\\asistencIA_CSS.css",
-              "RelativeDocumentMoniker": "css\\asistencIA_CSS.css",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\css\\asistencIA_CSS.css",
-              "RelativeToolTip": "css\\asistencIA_CSS.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-06T23:01:27.257Z"
+              "Title": "Pag_cuentaR.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuentaR.aspx.cs",
+              "RelativeDocumentMoniker": "Pag_cuentaR.aspx.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuentaR.aspx.cs",
+              "RelativeToolTip": "Pag_cuentaR.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:57:30.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pag_cuentaR.aspx",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuentaR.aspx",
+              "RelativeDocumentMoniker": "Pag_cuentaR.aspx",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuentaR.aspx",
+              "RelativeToolTip": "Pag_cuentaR.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T21:53:46.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebForm1.aspx",
-              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\WebForm1.aspx",
-              "RelativeDocumentMoniker": "WebForm1.aspx",
-              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\WebForm1.aspx",
-              "RelativeToolTip": "WebForm1.aspx",
+              "Title": "Pag_principal.aspx",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_principal.aspx",
+              "RelativeDocumentMoniker": "Pag_principal.aspx",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_principal.aspx",
+              "RelativeToolTip": "Pag_principal.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-06T23:00:46.431Z",
+              "WhenOpened": "2025-06-27T21:47:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pag_principal.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_principal.aspx.cs",
+              "RelativeDocumentMoniker": "Pag_principal.aspx.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_principal.aspx.cs",
+              "RelativeToolTip": "Pag_principal.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:48:09.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "css_login.css",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\css\\css_login.css",
+              "RelativeDocumentMoniker": "css\\css_login.css",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\css\\css_login.css",
+              "RelativeToolTip": "css\\css_login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-27T21:31:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pag_correo.aspx",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_correo.aspx",
+              "RelativeDocumentMoniker": "Pag_correo.aspx",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_correo.aspx",
+              "RelativeToolTip": "Pag_correo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T21:26:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pag_correo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_correo.aspx.cs",
+              "RelativeDocumentMoniker": "Pag_correo.aspx.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_correo.aspx.cs",
+              "RelativeToolTip": "Pag_correo.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:26:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pag_cuenta_usuario.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuenta_usuario.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Pag_cuenta_usuario.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuenta_usuario.aspx.designer.cs",
+              "RelativeToolTip": "Pag_cuenta_usuario.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:23:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pag_cuenta_usuario.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuenta_usuario.aspx.cs",
+              "RelativeDocumentMoniker": "Pag_cuenta_usuario.aspx.cs",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuenta_usuario.aspx.cs",
+              "RelativeToolTip": "Pag_cuenta_usuario.aspx.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:23:15.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pag_cuenta_usuario.aspx",
+              "DocumentMoniker": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuenta_usuario.aspx",
+              "RelativeDocumentMoniker": "Pag_cuenta_usuario.aspx",
+              "ToolTip": "C:\\Users\\patri\\Desktop\\asesoria\\Pag_cuenta_usuario.aspx",
+              "RelativeToolTip": "Pag_cuenta_usuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-27T21:22:36.129Z",
               "EditorCaption": ""
             }
           ]
